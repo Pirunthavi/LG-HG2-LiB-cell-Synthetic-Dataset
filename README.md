@@ -1,0 +1,3 @@
+This dataset contains synthetically generated data derived and extended from the publicly available 3Ah LG-HG2 LiB Synthetic Dataset hosted on Mendeley Data. The original dataset provides data for a 3Ah LG HG2 18650 lithium-ion cell, widely used in electric vehicle and energy storage applications.
+
+To support advanced data-driven modeling and predictive maintenance research, we have generated an extended version of this dataset using a Generative Adversarial Network (GAN) and some preprocessing techniques. The synthetic data maintains the statistical characteristics of the original measurements while expanding the range of operational conditions, including various state-of-health (SoH) windows, ambient temperature levels, and load profiles.
